@@ -1,0 +1,22 @@
+{
+  "name": "cypress-serve-rest",
+  "version": "1.0.0",
+  "description": "projeto de automação do cypress server rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlo2222/cypress-serve-rest.git"
+  },
+  "author": "marlo2222",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlo2222/cypress-serve-rest/issues"
+  },
+  "homepage": "https://github.com/marlo2222/cypress-serve-rest#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
